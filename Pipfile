@@ -10,6 +10,10 @@ matplotlib = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+openpyxl = "*"
+"plotly.express" = "*"
+ipykernel = "*"
+notebook = "*"
 
 [dev-packages]
 ipykernel = "*"
